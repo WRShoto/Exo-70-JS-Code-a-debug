@@ -1,14 +1,16 @@
 let texte = document.getElementById('main').innerHTML = "test";
 
-let boucle;
-while(var boucle<5) {
-    boucle =+ 5;
-}
+let boucle = 5
+while (boucle <= 5) ;
+
+
+
+
 
 
 document.getElementById('divInconnuAuBataillon').innerHTML = "ttttttttttttttttt";
 
-if(variableIconnueAuBataillon == 1) {
+if(variableIconnueAuBataillon === 1) {
 alert('connue');
 }
 else {
@@ -16,10 +18,10 @@ else {
 }
 
 
-alert("Penser à ne pas oublier...);
+alert("Penser à ne pas oublier...");
 
 
-alert "certaines choses";
+alert("certaines choses");
 
 
 
